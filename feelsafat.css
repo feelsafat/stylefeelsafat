@@ -14458,7 +14458,7 @@ img.fullimage {
 }
 @media (max-width:991px) {
   .search-form .search-field {
-    width: 270px;
+    width: 100px;
   }
   span.post-read-more {
     display: none;
@@ -16269,7 +16269,7 @@ img.fullimage {
 
 @media (max-width:991px) {
   .search-form .search-field {
-    width: 270px;
+    width: 100px;
   }
   span.post-read-more {
     display: none;
