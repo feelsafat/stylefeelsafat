@@ -16315,7 +16315,6 @@ img.fullimage {
   }
   .searcharea,
   .customarea {
-    display: none;
     text-align: center !Important;
     margin: 5px 0;
   }
