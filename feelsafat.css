@@ -16579,3 +16579,23 @@ h6 {
     background-color: rgba(255, 255, 255, .97);
   }
 }
+
+.BlogArchive li{
+margin:16px 0
+}
+.BlogArchive li:last-child{
+margin-bottom:0
+}
+.Label li a{
+display:inline-block
+}
+.BlogArchive .post-count,.Label .label-count{
+float:$endSide;
+margin-$startSide:.25em
+}
+.BlogArchive .post-count::before,.Label .label-count::before{
+content:'('
+}
+.BlogArchive .post-count::after,.Label .label-count::after{
+content:')'
+}
