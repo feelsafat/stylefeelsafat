@@ -13615,6 +13615,7 @@ h1.entry-title {
   border-bottom-right-radius: 3px;
   margin-left: -5px;
   border: 0;
+  margin-top: 25px;
 }
 
 .nav-up .searcharea form.search-form {
@@ -14457,7 +14458,7 @@ img.fullimage {
 }
 @media (max-width:991px) {
   .search-form .search-field {
-    width: 130px;
+    width: 270px;
   }
   span.post-read-more {
     display: none;
@@ -16268,7 +16269,7 @@ img.fullimage {
 
 @media (max-width:991px) {
   .search-form .search-field {
-    width: 130px;
+    width: 270px;
   }
   span.post-read-more {
     display: none;
